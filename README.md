@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @13flix
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning JAVA
+- 😄 I come from China
+- ⚡ Fun fact: I am male and have a beautiful girlfriend.
